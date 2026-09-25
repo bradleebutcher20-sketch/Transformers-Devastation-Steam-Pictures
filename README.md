@@ -20,6 +20,12 @@ This repository may include:
 - Custom thumbnails and icons
 - Additional Steam-compatible graphics
 
+If it says something like Wide Cover then you will change the wide cover, in Steam go to your game then click on the gear and click "Properties"
+you will then go to Customization and change those pictures so if it is a cover then replace that cover with the updated Transformer cover. 
+
+If you want a shortcut then click the Gear go to manage then click "Add desktop shortcut" it will be a flat white blank image, you can then head to
+the shortcut game, right click it, click on properties, make sure you're on Web Document then click "Change Icon" click "Browse" and choose the icon "TransformersShortcutIcon"
+
 ## Purpose
 
 These images are intended for personal customization of a Steam library and related game presentation.
